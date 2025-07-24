@@ -1,2 +1,1 @@
-# Playwright-Experiments
-Version control for my playwright experiments
+Tired of repetitive clicks and tedious browser tasks? Meet Shade, your personal automation agent that works silently in the background. From filling out forms to navigating complex workflows and capturing data, Shade learns your actions and executes them flawlessly on command. Reclaim hours of your time and eliminate boring tasks. Let your intelligent shadow handle the busywork so you can focus on what truly matters.
