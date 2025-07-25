@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Replayer</title>
+    <style>
+        body { font-family: sans-serif; width: 300px; padding: 10px; }
+        textarea { width: 95%; height: 200px; margin-bottom: 10px; }
+        button { width: 100%; padding: 8px; font-weight: bold; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h3>DOM Event Replayer</h3>
+    <textarea id="json-input" placeholder="Paste your recorded events JSON here..."></textarea>
+    <button id="replay-button">Start Replay</button>
+    <!-- Note the path to the compiled JS file -->
+    <script src="dist/popup.js"></script>
+</body>
+</html>
